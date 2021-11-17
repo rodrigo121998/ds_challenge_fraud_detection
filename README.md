@@ -23,3 +23,13 @@ Este genera un archivo output con 3 columnas:
 * Decil asignado
 
 Se adjunta imagen de prueba de ejecución de archivo en producción en servidor local: Prueba_prod.PNG
+
+## Next Steps
+
+* Entrenar con más data para mejorar métricas del modelo
+* Explorar otras variables como input al modelo
+* Usar técnicas de optimización como grid search o bayesian optimization para encontrar mejorar hiperparámetros
+
+## Insight finales
+
+El objetivo de este sistema de detección de fraude es encontrar de manera oportuna las tarjetas fraudulentas y/o brindar tarjetas que se puedan priorizar en su investigación para evitar quejas de clientes y los investigadores puedan trabajar de manera efectiva
