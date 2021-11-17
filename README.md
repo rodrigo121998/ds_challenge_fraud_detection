@@ -22,4 +22,4 @@ Este genera un archivo output con 3 columnas:
 * Probabilidad de fraude
 * Decil asignado
 
-Prueba de ejecución de archivo python en loca:
+Se adjunta imagen de prueba de ejecución de archivo en producción en servidor local: Prueba_prod.PNG
